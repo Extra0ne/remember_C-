@@ -1,0 +1,7 @@
+C:\VS Project\remember_Scharp_\remember_Scharp_\obj\Debug\remember_Scharp_.csprojAssemblyReference.cache
+C:\VS Project\remember_Scharp_\remember_Scharp_\obj\Debug\remember_Scharp_.csproj.CoreCompileInputs.cache
+C:\VS Project\remember_Scharp_\remember_Scharp_\bin\Debug\remember_Scharp_.exe.config
+C:\VS Project\remember_Scharp_\remember_Scharp_\bin\Debug\remember_Scharp_.exe
+C:\VS Project\remember_Scharp_\remember_Scharp_\bin\Debug\remember_Scharp_.pdb
+C:\VS Project\remember_Scharp_\remember_Scharp_\obj\Debug\remember_Scharp_.exe
+C:\VS Project\remember_Scharp_\remember_Scharp_\obj\Debug\remember_Scharp_.pdb
