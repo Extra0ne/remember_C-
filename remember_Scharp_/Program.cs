@@ -19,27 +19,27 @@ namespace remember_Scharp_
             //    int num = Convert.ToInt32(Console.ReadLine());
             //    int numMax = 0;
             //    int numMin = 0;
-            //    int a;
+            //    int argue;
             //    Console.Write("Число:");
             //    a = Convert.ToInt32(Console.ReadLine());
-            //    int min = a;
-            //    int max = a;
+            //    int min = argue;
+            //    int max = argue;
             //    for (int i = 1; i < num; i++)
             //    {
             //        Console.Write("Число:");
-            //        a = Convert.ToInt32(Console.ReadLine());
-            //        if (a <= min)
+            //        argue = Convert.ToInt32(Console.ReadLine());
+            //        if (argue <= min)
             //        {
-            //            min = a;
+            //            min = argue;
             //            numMin = i;
             //        }
-            //        if (a >= max)
+            //        if (argue >= max)
             //        {
-            //            max = a;
+            //            max = argue;
             //            numMax = i;
             //        }
             //    }
-            //    Console.WriteLine("НOМЕР минимального числа - {numMin + 1},  НОМЕР максимального числа - {numMax + 1}.");
+            //    Console.WriteLine("НOМЕР минимального числа = {numMin + 1},  НОМЕР максимального числа = {numMax + 1}.");
 
             //    Console.ReadLine();
             //}
@@ -48,31 +48,32 @@ namespace remember_Scharp_
             ///Известны оценки по информатике каждого ученика класса. Определить количество пятерок.
             ///////////////////////////////////////////////////////////////////////////////////////////
             //Console.Write("Число учеников : ");
-            //int n = Convert.ToInt32(Console.ReadLine());
+            //int num = Convert.ToInt32(Console.ReadLine());
             //int appraisal;
             //int amount = 0;
-            //for (int i = 0; i < n; i++)
+            //for (int i = 0; i < num; i++)
             //{
             //    Console.Write("оценка : ");
             //    appraisal = Convert.ToInt32(Console.ReadLine());
             //    if (appraisal == 5)
             //        amount++;
             //}
-            //Console.WriteLine("Количестко пятерок - {amount}");
+            //Console.WriteLine("Количестко пятерок = {amount}");
             //Console.ReadKey();
 
             ///////////////////////////////////////////////////////////////////////////////////////////
             ///Дано шестизначное число. Найти сумму его цифр. Величины для хранения всех шести цифр числа не использовать.
             ///////////////////////////////////////////////////////////////////////////////////////////
-            //int num, symm = 0;
+            //int num;
+            //int sym = 0;
             //Console.Write("Введите шестизначное число: ");
             //num = Convert.ToInt32(Console.ReadLine());
             //for (int i = 0; i < 6; i++)
             //{
-            //    symm = symm + num  % 10;
+            //    sym = sym + num  % 10;
             //    num = num / 10;
             //}
-            //Console.WriteLine("Сумма цифр = {0}", symm);
+            //Console.WriteLine("Сумма цифр = {0}", sym);
             //Console.ReadKey();
             ///////////////////////////////////////////////////////////////////////////////////////////
 
